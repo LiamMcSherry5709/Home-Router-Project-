@@ -16,4 +16,7 @@ The project involved:
 
 
 ## Tools and hardware used 
--
+- GL.iNet Flint 2 (GL-MT6000)
+- Sky SR213
+- Cat 6 Ethernet cable
+- LuCI
