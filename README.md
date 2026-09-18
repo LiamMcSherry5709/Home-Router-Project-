@@ -7,3 +7,13 @@ This project documents the installation of hardware, firewall configuration, a D
 
 ## objective
 This projects objective was to gain practical firewall and network security experience while improving the control I have over my home network.
+
+The project involved:
+- Using LuCI to reach full firewall control
+- Installing networking equimpment (i.e. routers)
+- Reviewing and interpreted default firewall rules
+- Backing up device configurations as the project was being undertaken
+
+
+## Tools and hardware used 
+-
