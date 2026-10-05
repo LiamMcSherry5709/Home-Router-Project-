@@ -52,6 +52,4 @@ This step simply involved connecting the new router to an available LAN port of 
  - Assigning DHCP connection
 
    <img width="230" height="300" alt="9500" src="https://github.com/user-attachments/assets/332cb607-a74a-4360-8ea0-00d8e2f11244" />
-
-## Step 5 LuCI configurations: 
   
