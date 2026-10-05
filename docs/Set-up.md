@@ -40,7 +40,7 @@ This step simply involved connecting the new router to an available LAN port of 
    <img width="230" height="300" alt="9495" src="https://github.com/user-attachments/assets/32208850-241e-4464-b483-59cbe4a2d135" />
 
 
-  ## Step 4 configure new router
+  ## Step 4 configure new router:
 
   This step involved going to GL.iNet setup wizard and assigning a password and SSID for the router. Then I set the network to DHCP so IP addresses would be automatically assigned. This completed the general connectivity process of the set up. 
 
@@ -50,6 +50,9 @@ This step simply involved connecting the new router to an available LAN port of 
 
  &nbsp;
  - Assigning DHCP connection
+
+## Step 5 LuCI configurations: 
+
 
    <img width="230" height="300" alt="9500" src="https://github.com/user-attachments/assets/332cb607-a74a-4360-8ea0-00d8e2f11244" />
 
