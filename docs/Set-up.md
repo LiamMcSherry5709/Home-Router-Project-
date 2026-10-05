@@ -2,7 +2,17 @@
 
 In this section in will show step by step, how I set up the home router. I will provide screenshots and explain what each one means.
 
-##Step 1 equipment:
+## Step 1 current router set up:
+
+Before making any changes to my home network, I first had to take note of the current network configurations. A lot of this was hidden from me due to how restrictive the ISP supplied router is. 
+What I was able to note was the current password, SSID. I also took note of the current port layout of the original router.
+
+- Original router layout
+
+<img width="230" height="300" alt="9497" src="https://github.com/user-attachments/assets/13d7a560-ddaa-4759-9465-e7b47eda8ecf" />
+
+
+## Step 2 equipment:
 
 Firstly I gathered the equipment I would be using. These included the Flint 2 router and the Cat6 Ethernet cable used to connect it. 
 The pictures below shows these two pieces of equipment.
