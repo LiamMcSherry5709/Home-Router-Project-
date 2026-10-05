@@ -14,7 +14,7 @@ What I was able to note was the current password, SSID. I also took note of the 
 
 ## Step 2 equipment:
 
-Firstly I gathered the equipment I would be using. These included the Flint 2 router and the Cat6 Ethernet cable used to connect it. 
+Firstly I gathered the equipment I would be using. This included the Flint 2 router and the Cat6 Ethernet cable used to connect it. 
 The pictures below shows these two pieces of equipment.
 
 - Flint 2 router
@@ -26,4 +26,20 @@ The pictures below shows these two pieces of equipment.
 
  <img width="230" height="300" alt="9488" src="https://github.com/user-attachments/assets/34a6ff54-9ead-43c2-b32d-38b1444f93e0" />
 
+## Step 3 connect new router:
 
+This step simply involved connecting the new router to an available LAN port of the original router.
+
+- Connected new router to old router
+
+  <img width="230" height="300" alt="9498" src="https://github.com/user-attachments/assets/994aa8fa-1c31-4b2d-b405-8bac2aea2814" />
+
+ &nbsp;
+ - picture 2
+
+   <img width="230" height="300" alt="9495" src="https://github.com/user-attachments/assets/32208850-241e-4464-b483-59cbe4a2d135" />
+
+
+  ## Step 4 configure new router
+
+  This step involved going to GL.iNet setup wizard and assigning a password and SSID for the router 
