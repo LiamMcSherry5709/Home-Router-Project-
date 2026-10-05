@@ -6,5 +6,7 @@ In this section I will discuss the configurations of the routers firewall in LuC
 
   <img width="1500" height="382" alt="Firewall forwarding" src="https://github.com/user-attachments/assets/3e3dc7a7-a69f-4e4e-89ab-902a8a16a46f" />
 
-  
+&nbsp;
+Figure 1: What this shows is that all LAN to WAN packet forwarding is accepted 
+Figure 2: This shows that all traffic attempting to pass through the WAN side is rejected or dropped. Any traffic output from the WAN side is accepted. 
 
