@@ -27,5 +27,14 @@ Some of the firewall traffic rules found within LuCI are as follows.
 These are just a few of the traffic rules. Certain rules such as wan_drop_leaked_dns were not enabled by default, so i had to enable them within LuCI. 
 Below is a screenshot showing some of the fire wall traffic rules.
 
+- Traffic rules 
+
 <img width="1200" height="900" alt="Screenshot 2026-10-06 075137" src="https://github.com/user-attachments/assets/7952362e-a6e1-4d83-ae01-f3b5faff847b" />
 
+## Backup 
+
+before making any changes I took a backup of the default configuration. The screenshot below shows that being done in LuCI.
+
+- Backup
+
+<img width="700" height="250" alt="Screenshot 2026-09-11 085854" src="https://github.com/user-attachments/assets/d6d92f88-f787-4b90-bfc5-4ebee59ed246" />
